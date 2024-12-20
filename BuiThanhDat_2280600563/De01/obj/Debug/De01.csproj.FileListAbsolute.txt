@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\bin\Debug\De01.exe.config
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\bin\Debug\De01.exe
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\bin\Debug\De01.pdb
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\obj\Debug\De01.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\obj\Debug\De01.frmSinhVien.resources
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\obj\Debug\De01.Properties.Resources.resources
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\obj\Debug\De01.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\obj\Debug\De01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\obj\Debug\De01.csproj.Up2Date
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\obj\Debug\De01.exe
+C:\Users\Admin\Desktop\BuiThanhDat_2280600563\BuiThanhDat_2280600563\De01\obj\Debug\De01.pdb
